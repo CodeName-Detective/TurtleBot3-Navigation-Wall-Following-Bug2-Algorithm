@@ -1,0 +1,4 @@
+Bug2:
+  ros__parameters:
+    goal_position: [-2.0, 0.0]
+# goal_position: [2.0, -1.2]
