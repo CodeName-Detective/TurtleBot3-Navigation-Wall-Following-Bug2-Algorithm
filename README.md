@@ -58,7 +58,7 @@ ros2 launch turtlebot3_navigation bug2.launch.py
 
 ```
 
-## 🧠 How it Works
+## How it Works
 
 ### Wall Follower Logic
 
